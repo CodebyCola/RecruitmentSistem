@@ -9,7 +9,9 @@ import latihan.view.MainFrame;
 
 /**
  *
- * @author Pongo
+ * NAMA : Nicolaus Narindra Lianto
+ * NIM  : 123240100
+ * PLUG : Praktikum PBO IF-F
  */
 public class Main {
 
